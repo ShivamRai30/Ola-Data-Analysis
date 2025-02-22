@@ -1,6 +1,13 @@
 # Ola-Data-Analysis
 This project analyzes 100,000 ride bookings from Ola to uncover key trends in ride performance, cancellations, customer behavior, and vehicle usage. Using SQL queries, Power BI dashboards, and dataset exploration.
 ![Ola-Cabs-Logo-500x281](https://github.com/user-attachments/assets/f0143e23-2f92-4823-a611-c7819e7faf7d)
+![OverAll](https://github.com/user-attachments/assets/71248387-d494-4c2d-85dd-405b7f000b92)
+![Revenue](https://github.com/user-attachments/assets/942708ad-9422-40a6-8124-5b46ed9c4797)
+![Vehicle Types](https://github.com/user-attachments/assets/52d28ae8-1774-4c8d-9a1d-badba3466ab5)
+![Cancellations](https://github.com/user-attachments/assets/95493fc1-2198-4b26-b1a0-24d6b7f3fb27)
+![Ratings](https://github.com/user-attachments/assets/60e864b4-e635-4b97-a1c4-c264c65d23c1)
+
+
 
 <br/>we extracted insights on:
 * Booking success rates & cancellation trends
